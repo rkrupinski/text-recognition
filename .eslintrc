@@ -1,0 +1,14 @@
+{
+  "root": true,
+  "parser": "babel-eslint",
+  "env": {
+    "browser": true
+  },
+  "rules": {
+    "no-use-before-define": ["error", { "functions": false }]
+  },
+  "settings": {
+    "import/resolver": "webpack"
+  },
+  "extends": "airbnb"
+}

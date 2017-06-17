@@ -1,0 +1,11 @@
+export const SET_INPUT = 'SET_INPUT';
+
+export const ADD_TRAINING_DATA = 'ADD_TRAINING_DATA';
+export const CLEAR_TRAINING_DATA = 'CLEAR_TRAINING_DATA';
+
+export const TRAINING_START = 'TRAINING_START';
+export const TRAINING_STOP = 'TRAINING_STOP';
+
+export const TOGGLE_MODE = 'TOGGLE_MODE';
+export const TRAINING = 'TRAINING';
+export const TESTING = 'TESTING';
